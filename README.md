@@ -3,6 +3,11 @@ Vim syntax highlighting for jsslang
 
 # Installation
 
-todo
+## pathogen.vim
+
+```bash
+cd ~/.vim/bundle
+git clone git@github.com:codeninja-ru/vim-jsslang.git
+```
 
 
